@@ -1,1 +1,1 @@
-console.log("lskdjfljlsdk")
+import "./test"
