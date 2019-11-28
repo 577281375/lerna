@@ -12,5 +12,6 @@
   "dependencies": {
     "lodash": "^4.17.15",
     "window": "^4.2.6"
-  }
+  },
+  "gitHead": "0261ecedb244b76e4104a1f816ba9ccfd6660424"
 }
