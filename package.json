@@ -1,6 +1,8 @@
 {
   "name": "root",
   "private": true,
+  "repository": "https://577281375:song577281375@github.com/577281375/lerna.git",
+  "author": "midou",
   "devDependencies": {
     "lerna": "^3.19.0"
   }
