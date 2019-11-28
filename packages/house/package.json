@@ -3,6 +3,7 @@
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
+  "repository": "https://577281375:song577281375@github.com/577281375/house.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +14,5 @@
     "lodash": "^4.17.15",
     "window": "^4.2.6"
   },
-  "gitHead": "33f5b5bace160c8739ad1736dfcf651c395275de"
+  "gitHead": "f38c1bde971e327de7d977af135d2d39d94b3ea5"
 }
